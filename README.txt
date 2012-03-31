@@ -13,6 +13,10 @@ IDE: Eclipse 3.7
 
 Programming notes:
 
+	lxml
+	    libxml2-dev
+	    libxslt-dev
+	    
 	IMDbPY 
 		[under Windows] install first lxml (http://pypi.python.org/pypi/lxml/)
         python setup.py --without-cutils install
